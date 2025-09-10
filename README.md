@@ -17,7 +17,7 @@ A powerful static analysis tool for Solana smart contracts written in Rust. Dete
 
 ### From Source
 ```bash
-git clone [https://github.com/Naro-chain/Solana_Static_Analyzer].git
+git clone https://github.com/Naro-chain/Solana_Static_Analyzer.git
 cd rust-solana-analyzer
 cargo build --release
 ```
